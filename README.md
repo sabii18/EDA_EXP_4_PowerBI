@@ -70,6 +70,7 @@ Create the following measures:
     Analyze the results and identify useful business insights.      
 
 **Output**
+![Uploading image.png…]()
 
 
 **Result**
